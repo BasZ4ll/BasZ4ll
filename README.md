@@ -2,7 +2,7 @@
 <h3 align="center">I'm a new developer in coding.</h3>
 
 
-<p align="center"> <img scr="https://media.tenor.com/2uyENRmiUt0AAAAS/coding.gif" > </p>
+<p align="right"> <img scr="https://github.com/rudrabarad/Gifs" > </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basz4ll&label=Profile%20views&color=0e75b6&style=flat" alt="basz4ll" /> </p>
 
